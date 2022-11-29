@@ -19,7 +19,6 @@
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="110" height="75"/> 
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanderYaz&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/SanderYaz/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=SanderYaz&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=SanderYaz&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
 
    
