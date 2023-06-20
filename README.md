@@ -2,7 +2,7 @@
 **SanderYaz/SanderYaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <h1>  👋 Welcome I’m @handelarahayran </h1></center>
 <h2> Hande Hayran </h2>
-<h3> 👀 I’m interested in front-end deevlopment and machine learning </h3>
+<h3> 👀 I’m interested in front-end development and machine learning </h3>
 <h3> 🌱 I’m currently learning golang </h3>
 <h3> 📫 you can reach me via handehayrann@gmail.com </h3>
 
